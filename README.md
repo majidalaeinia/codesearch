@@ -13,6 +13,10 @@ docker compose up -d
 List your desired repositories on `repos.yaml` file.
 
 ```bash
+go mod tidy
+```
+
+```bash
 go run main.go
 ```
 
