@@ -1,0 +1,7 @@
+repos:
+  - name: majidalaeinia/lintstructpadding
+    url: https://github.com/majidalaeinia/lintstructpadding
+  - name: majidalaeinia/subtitle-renamifier
+    url: https://github.com/majidalaeinia/subtitle-renamifier
+  - name: majidalaeinia/refresh-repositories
+    url: https://github.com/majidalaeinia/refresh-repositories
