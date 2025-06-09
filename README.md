@@ -38,3 +38,7 @@ GET codesearch/_search
 ```
 
 Happy code searching.
+
+### TODO
+- [ ] Add tests
+- [ ] Use viper to read from config
